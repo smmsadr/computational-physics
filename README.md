@@ -7,8 +7,8 @@ This repository is a set of computational physics codes and exercises, I origina
 * Some of the sub projects here can become their own project and repository.
 
 ## List of content
-* [First project](#/first-project)
-* [First project](#/first-project)
-* [First project](#/first-project)
-* [First project](#/first-project)
-* [First project](#/first-project)
+* [project](/first-project)
+* [project](/first-project)
+* [project](/first-project)
+* [project](/first-project)
+* [project](/first-project)
